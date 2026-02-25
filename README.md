@@ -40,4 +40,4 @@ A clean professional interface built with Tailwind CSS v4 and shadcn-inspired co
 
 ## Deploy on Vercel
 
-- **Deployed Link** - ``
+- **Deployed Link** - `https://ecommerce-nextjs-six-tau.vercel.app/`
